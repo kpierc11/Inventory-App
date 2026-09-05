@@ -1,1 +1,1 @@
-# Ecommerce-Store
+# Inventory App
